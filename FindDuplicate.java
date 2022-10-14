@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/find-the-duplicate-number/
-//Best approach
 class FindDuplicate {
   public int findDuplicate(int[] nums) {
     int slow = nums[0];
